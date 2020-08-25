@@ -1,4 +1,5 @@
 import pbjson
-with open('data.jsonb', "rb") as json_file:
-    data = pbjson.load(json_file)
+
+with open("data.jsonb", "rb") as f:
+    data = pbjson.load(f)
     print(len(data), len(data[0]))
