@@ -11,13 +11,13 @@ time numpy_load.py
 
 * **JSON**
   * file size: 2Mb
-  * file parse time: 0.06s
+  * load time: 0.06s
 * **JSONB**
   * file size: 966Kb
-  * file parse time: 0.05s
+  * load time: 0.05s
 * **Numpy**
   * file size: 800Kb
-  * file parse time: 0.14s
+  * load time: 0.14s
 * **In memory**
   * 781Kb
 
