@@ -1,4 +1,4 @@
-# Test load and parse matrix(10, 10000) with float values.
+# Test load matrix(10, 10000) with float values.
 
 Run in the command line:
 ```
