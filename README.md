@@ -5,6 +5,7 @@ Run in the command line:
 time json_load.py
 time jsonb_load.py
 time numpy_load.py
+time p7type_load.py
 ```
 
 ## Results
