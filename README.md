@@ -1,11 +1,18 @@
 # Benchmark load matrix(10000, 10) with float values
 
-Run in the command line:
+## Install
+
 ```
-time json_load.py
-time jsonb_load.py
-time numpy_load.py
-time p7type_load.py
+poetry install
+```
+
+## Run
+
+```
+python json_load.py
+python jsonb_load.py
+python numpy_load.py
+python p7type_load.py
 ```
 
 ## Results
