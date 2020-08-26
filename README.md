@@ -19,10 +19,10 @@ python p7type_load.py
 
 * **JSON**
   * file size: 2Mb
-  * load time: 0.02s
+  * load time: 0.03s
 * **JSONB**
   * file size: 975Kb
-  * load time: 0.03s
+  * load time: 0.02s
 * **Numpy**
   * file size: 782Kb
   * load time: 0.0004s
