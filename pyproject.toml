@@ -5,9 +5,12 @@ description = ""
 authors = ["Dmitry Golubkov <master@hsdesign.ru>"]
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "3.7"
 numpy = "^1.19.1"
 pbjson = "^1.15"
+h5py = "^2.10.0"
+namedlist = "^1.7"
+pytz = "^2020.1"
 
 [tool.poetry.dev-dependencies]
 black = {version = "^19.10b0", allow-prereleases = true}

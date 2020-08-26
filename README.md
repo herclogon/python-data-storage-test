@@ -1,4 +1,4 @@
-# Benchmark load matrix(10, 10000) with float values.
+# Benchmark load matrix(10, 10000) with float values
 
 Run in the command line:
 ```
@@ -13,13 +13,13 @@ time numpy_load.py
   * file size: 2Mb
   * load time: 0.06s
 * **JSONB**
-  * file size: 966Kb
+  * file size: 975Kb
   * load time: 0.05s
 * **Numpy**
-  * file size: 800Kb
+  * file size: 782Kb
   * load time: 0.14s
+* **p7 typesystem**
+  * file size: 787Kb
+  * load time: 0.27s
 * **In memory**
   * 781Kb
-
-
-
