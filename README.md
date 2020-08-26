@@ -12,15 +12,15 @@ time p7type_load.py
 
 * **JSON**
   * file size: 2Mb
-  * load time: 0.06s
+  * load time: 0.02s
 * **JSONB**
   * file size: 975Kb
-  * load time: 0.05s
+  * load time: 0.03s
 * **Numpy**
   * file size: 782Kb
-  * load time: 0.14s
+  * load time: 0.0004s
 * **p7 typesystem**
   * file size: 787Kb
-  * load time: 0.27s
+  * load time: 0.004s
 * **In memory**
   * 781Kb
