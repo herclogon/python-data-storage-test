@@ -1,4 +1,4 @@
-# Benchmark load matrix(10, 10000) with float values
+# Benchmark load matrix(10000, 10) with float values
 
 Run in the command line:
 ```
